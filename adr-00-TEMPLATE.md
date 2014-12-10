@@ -32,5 +32,5 @@ and neutral consequences, but all of them affect the team and project
 in the future.
 
 | a | b | c | d | e |
-|---+---+---+---+---|
+|---|---|---|---|---|
 | 1 | 2 | 3 | 4 | 5 |
