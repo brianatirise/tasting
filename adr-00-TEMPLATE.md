@@ -30,3 +30,7 @@ decision. All consequences should be listed here, not just the
 "positive" ones. A particular decision may have positive, negative,
 and neutral consequences, but all of them affect the team and project
 in the future.
+
+| a | b | c | d | e |
+|---+---+---+---+---|
+| 1 | 2 | 3 | 4 | 5 |
